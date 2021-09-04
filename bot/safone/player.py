@@ -219,7 +219,7 @@ async def not_chat(_, m: Message):
                 InlineKeyboardButton("SUPPORT", url="https://t.me/OP_SQUAD"),
             ],
             [
-                InlineKeyboardButton("Owner", url="https://t.me/burst_x_fire"),
+                InlineKeyboardButton("Owner👑", url="https://t.me/burst_x_fire"),
             ]
          ]
     await m.reply_text(text="**Sorry, You Can't Use This Bot In This Group 🤷‍♂️!**", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)

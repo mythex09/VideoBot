@@ -1,19 +1,5 @@
 # Telegram Video Player Bot (Beta)
-![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/VideoPlayerBot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AsmSafone/VideoPlayerBot?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AsmSafone/VideoPlayerBot)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AsmSafone/VideoPlayerBot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AsmSafone/VideoPlayerBot)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AsmSafone/VideoPlayerBot)
-![GitHub contributors](https://img.shields.io/github/contributors/AsmSafone/VideoPlayerBot?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/VideoPlayerBot?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/VideoPlayerBot)
-![GitHub](https://img.shields.io/github/license/AsmSafone/VideoPlayerBot)
-[![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/AsmSafone)
-[![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/safothebot)
-
-An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Telegram Voice Chat.
-
+ 
 ## Deploy Video Player Bot
 
 ### Railway (Reommanded)
@@ -50,30 +36,3 @@ $ pip3 install -U -r requirements.txt
 # <create .env variables appropriately>
 $ python3 main.py
 ```
-
-
-## License
-```sh
-VideoPlayerBot, Telegram Video Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>
-```
-
-## Credits
-
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/VideoPlayerBot) 😬
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/VideoPlayerBot/graphs/contributors)! ❤️
